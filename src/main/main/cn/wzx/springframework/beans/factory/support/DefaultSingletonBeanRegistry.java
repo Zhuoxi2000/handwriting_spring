@@ -1,6 +1,6 @@
-package main.java.cn.wzx.springframework.beans.factory.support;
+package cn.wzx.springframework.beans.factory.support;
 
-import main.java.cn.wzx.springframework.beans.factory.config.SingletonBeanRegistry;
+import cn.wzx.springframework.beans.factory.config.SingletonBeanRegistry;
 
 import java.util.HashMap;
 import java.util.Map;

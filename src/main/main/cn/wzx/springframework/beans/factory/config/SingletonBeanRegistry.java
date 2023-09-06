@@ -1,4 +1,4 @@
-package main.java.cn.wzx.springframework.beans.factory.config;
+package cn.wzx.springframework.beans.factory.config;
 
 public interface SingletonBeanRegistry {
 

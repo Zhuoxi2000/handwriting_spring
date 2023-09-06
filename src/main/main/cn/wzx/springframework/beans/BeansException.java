@@ -1,4 +1,4 @@
-package main.java.cn.wzx.springframework.beans.factory;
+package cn.wzx.springframework.beans;
 
 public class BeansException extends RuntimeException {
 
