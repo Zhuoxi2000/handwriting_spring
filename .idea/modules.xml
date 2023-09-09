@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/handwrting_spring.iml" filepath="$PROJECT_DIR$/handwrting_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handwriting_spring.iml" filepath="$PROJECT_DIR$/handwriting_spring.iml" />
     </modules>
   </component>
 </project>
